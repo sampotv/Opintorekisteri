@@ -1,0 +1,20 @@
+{
+  "name": "ojakso",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "^2.7.4",
+    "express": "^4.16.4",
+    "express-flash": "0.0.2",
+    "express-session": "^1.17.2",
+    "http-errors": "~1.6.3",
+    "method-override": "^3.0.0",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1"
+  }
+}
